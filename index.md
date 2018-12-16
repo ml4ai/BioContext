@@ -1,39 +1,6 @@
-## Welcome to GitHub Pages
+# Inferring Biological Context from Text
+This repository is the homepage for all data and code associated with the UA Big Mechanism projects biological context branch. The main goal of this project is to correctly link biological events and biological context containers that have been extracted from Biomedical publications.
 
-This is a test
-
-You can use the [editor on GitHub](https://github.com/ml4ai/BioContext/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ml4ai/BioContext/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Obtaining our code and data
+- The code for our project is available in the [experimentation repository](https://github.com/ml4ai/BioContext_experiment). This repository includes all the documentation necessary to replicate our published findings from our [DMBIH](http://facweb.cs.depaul.edu/research/vc/ICDM18/index.html) workshop paper submission (in coordination with [ICDM](http://icdm2018.org/workshop/)).
+- For replication of results associated with our ablation study we have made our [ablation data](https://github.com/ml4ai/BioContext_results) available as well, so that those without the computational resources to conduct an ablation study can still replicate our additional results.
