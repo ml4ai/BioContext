@@ -16,26 +16,26 @@ We obtained our corpus of Biomedical papers from PubMed Central. Below is a tabl
 
 | PMCID | Paper title |
 | ------------- | ------------- |
-| [PMC2743561](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743561/) | Persistent DNA damage signaling triggers senescence-associated inflammatory cytokine secretion  |
-| PMC4204162 | <name>  |
-| PMC3203906 | <name>  |
-| PMC534114  | <name>  |
-| PMC2193052 | <name>  |
-| PMC2773002 | <name>  |
-| PMC3135394 | <name>  |
-| PMC2196001 | <name>  |
-| PMC2063868 | <name>  |
-| PMC3392545 | <name>  |
-| PMC2064697 | <name>  |
-| PMC3190874 | <name>  |
-| PMC2156142 | <name>  |
-| PMC3032653 | <name>  |
-| PMC3717960 | <name>  |
-| PMC3233644 | <name>  |
-| PMC2195994 | <name>  |
-| PMC2978746 | <name>  |
-| PMC3378484 | <name>  |
-| PMC3058384 | <name>  |
-| PMC4052680 | <name>  |
-| PMC420486  | <name>  |
-| PMC3461631 | <name>  |
+| [PMC2743561](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743561/) | Persistent DNA damage signaling triggers senescence-associated inflammatory cytokine secretion |
+| [PMC4204162](https://www.ncbi.nlm.nih.gov/pubmed/25337577) | Oxidative stress and cytokines in the pathogenesis of pancreatic cancer |
+| [PMC3203906](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203906/) | Phosphoinositide 3-Kinaseγ Controls the Intracellular Localization of CpG to Limit DNA-PKcs-Dependent IL-10 Production in Macrophages  |
+| [PMC534114](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC534114/)  | The docking protein Gab1 is the primary mediator of EGF-stimulated activation of the PI-3K/Akt cell survival pathway |
+| [PMC2193052](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2193052/) | Grf40, A Novel Grb2 Family Member, Is Involved in T Cell Signaling through Interaction with SLP-76 and LAT |
+| [PMC3032653](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032653/) | Spatially restricted activation of RhoA at epithelial junctions by p114RhoGEF drives junction formation and morphogenesis |
+| [PMC2978746](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2978746/) | Regulation of C/EBPbeta1 by Ras in mammary epithelial cells and the role of C/EBPbeta1 in oncogene-induced senescence |
+| [PMC3717960](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3717960/) | Up-regulation of c-MYC and SIRT1 expression correlates with malignant transformation in the serrated route to colorectal cancer |
+| [PMC3461631](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3461631/) | The Role of Semaphorins and Their Receptors in Gliomas |
+| [PMC2195994](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2195994/) | Cdc42hs Facilitates Cytoskeletal Reorganization and Neurite Outgrowth by Localizing the 58-Kd Insulin Receptor Substrate to Filamentous Actin |
+| [PMC3190874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190874/) | Immunoglobulin E Receptor Signaling and Asthma |
+| [PMC2156142](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2156142/) | The Developmental Role of _warthog_, the Notch Modifier Encoding _Drab6_ |
+| [PMC2773002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773002/) | Differential Role of Human Choline Kinase α and β Enzymes in Lipid Metabolism: Implications in Cancer Onset and Treatment |
+| [PMC2196001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2196001/) | A Novel Neural Wiskott-Aldrich Syndrome Protein (N-Wasp) Binding Protein, Wish, Induces Arp2/3 Complex Activation Independent of Cdc42 |
+| [PMC3058384](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058384/) | COT/MAP3K8 drives resistance to RAF inhibition through MAP kinase pathway reactivation |
+| [PMC2063868](https://www.ncbi.nlm.nih.gov/pubmed/16702230) | Semaphorin 4D/Plexin-B1-mediated R-Ras GAP activity inhibits cell migration by regulating beta(1) integrin activity |
+| [PMC2064697](https://www.ncbi.nlm.nih.gov/pubmed/17158953) | Loss of linker histone H1 in cellular senescence |
+| [PMC4052680](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052680/) | Phosphorylation by Akt within the ST loop of AMPK-α1 down-regulates its activation in tumour cells |
+| [PMC420486](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC420486/)  | Phospholipase C δ-4 overexpression upregulates ErbB1/2 expression, Erk signaling pathway, and proliferation in MCF-7 cells |
+| [PMC3135394](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3135394/) | Signal transduction by reactive oxygen species |
+| [PMC3378484](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378484/) | Regulation of lipid binding underlies the activation mechanism of class IA PI3-kinases |
+| [PMC3392545](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392545/) | Structure of STING bound to c-di-GMP Reveals the Mechanism of Cyclic Dinucleotide Recognition by the Immune System |
+| [PMC3233644](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233644/) | A MEK-independent role for CRAF in mitosis and tumor progression |
