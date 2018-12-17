@@ -17,7 +17,6 @@ We obtained our corpus of Biomedical papers from PubMed Central. Below is a tabl
 | PMCID | Paper title |
 | ------------- | ------------- |
 | [PMC2743561](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743561/) | Persistent DNA damage signaling triggers senescence-associated inflammatory cytokine secretion |
-| [PMC4204162](https://www.ncbi.nlm.nih.gov/pubmed/25337577) | Oxidative stress and cytokines in the pathogenesis of pancreatic cancer |
 | [PMC3203906](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203906/) | Phosphoinositide 3-Kinaseγ Controls the Intracellular Localization of CpG to Limit DNA-PKcs-Dependent IL-10 Production in Macrophages  |
 | [PMC534114](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC534114/)  | The docking protein Gab1 is the primary mediator of EGF-stimulated activation of the PI-3K/Akt cell survival pathway |
 | [PMC2193052](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2193052/) | Grf40, A Novel Grb2 Family Member, Is Involved in T Cell Signaling through Interaction with SLP-76 and LAT |
