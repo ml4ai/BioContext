@@ -14,7 +14,7 @@ The main goal of this project is to correctly link biological events and biologi
 ## Dataset description
 We obtained our corpus of Biomedical papers from PubMed Central. Below is a table of the PMCIDs for each of our 22 papers along with the paper titles. The PMCIDs can be used to find the original papers that are available on PubMed.
 
-| PMCID | Paper title |
+| PMC ID | Paper title |
 | ------------- | ------------- |
 | [PMC2743561](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743561/) | Persistent DNA damage signaling triggers senescence-associated inflammatory cytokine secretion |
 | [PMC3203906](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203906/) | Phosphoinositide 3-Kinaseγ Controls the Intracellular Localization of CpG to Limit DNA-PKcs-Dependent IL-10 Production in Macrophages  |
