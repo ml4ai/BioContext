@@ -3,7 +3,7 @@ This repository is the homepage for all data and code associated with the UA Big
 
 The main goal of this project is to correctly link biological events and biological context containers that have been extracted from Biomedical publications.
 
-A copy of our publication is available on arXiv.
+A copy of our publication is available on [arXiv](https://arxiv.org/abs/1812.06199).
 
 
 ## Obtaining our code and data
